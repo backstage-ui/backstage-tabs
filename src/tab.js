@@ -24,13 +24,13 @@ export default class Tab extends PureComponent {
   }
 }
 
-Option.propTypes = {
+Tab.propTypes = {
   label: PropTypes.string.isRequired,
   onClick: PropTypes.func.isRequired,
   active: PropTypes.bool,
 };
 
-Option.defaultProps = {
+Tab.defaultProps = {
   label: '',
   onClick: () => {},
   active: false,

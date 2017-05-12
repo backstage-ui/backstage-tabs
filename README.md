@@ -10,7 +10,7 @@ $ npm install backstage-tabs --save
 
 ### Required Props
 
-* `tabs`: all tab items of Tabs component:
+* `tabs`: Array of objects to set all tab items of Tabs component:
     * `label`: label displayed on the tab,
     * `value`: the identifier of the tab.
 * `activeTab`: current active tab;

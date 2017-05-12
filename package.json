@@ -1,6 +1,6 @@
 {
   "name": "backstage-tabs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "backstage tabs",
   "main": "dist/dropdown.js",
   "scripts": {

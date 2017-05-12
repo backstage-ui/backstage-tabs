@@ -2,7 +2,7 @@
   "name": "backstage-tabs",
   "version": "0.0.2",
   "description": "backstage tabs",
-  "main": "dist/dropdown.js",
+  "main": "dist/tabs.js",
   "scripts": {
     "start": "webpack-dev-server",
     "build": "yarn lint && babel src/ --out-dir dist/ --ignore __tests__,__mocks__",
